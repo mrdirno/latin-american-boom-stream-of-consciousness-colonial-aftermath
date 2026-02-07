@@ -1,0 +1,160 @@
+{
+  "book_id": "latin_american_boom_stream_of_consciousness_colonial_aftermath",
+  "title": "The River That Remembers",
+  "tagline": "A priest's faith unravels in a jungle where the past refuses to be baptized.",
+  "target_words": 70000,
+  "actual_words": 70530,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Syncretic Haunting",
+    "The Jungle as Archive",
+    "The Permanence of Ghosts",
+    "The Failure of Erasure"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Baptismal Tremor",
+      "words": 2938
+    },
+    {
+      "ch": 2,
+      "title": "The Digestion of Stones",
+      "words": 2940
+    },
+    {
+      "ch": 3,
+      "title": "Father Rivas's Ghost",
+      "words": 2939
+    },
+    {
+      "ch": 4,
+      "title": "Illari's Hazel Eyes",
+      "words": 2938
+    },
+    {
+      "ch": 5,
+      "title": "The Whispered Names",
+      "words": 2940
+    },
+    {
+      "ch": 6,
+      "title": "The Coca Offering",
+      "words": 2939
+    },
+    {
+      "ch": 7,
+      "title": "The Man of Gold and Shadow",
+      "words": 2938
+    },
+    {
+      "ch": 8,
+      "title": "Mateo's Map of Crossings",
+      "words": 2940
+    },
+    {
+      "ch": 9,
+      "title": "Mass and the Mountain Spirits",
+      "words": 2939
+    },
+    {
+      "ch": 10,
+      "title": "The Chullachaqui's Mirror",
+      "words": 2938
+    },
+    {
+      "ch": 11,
+      "title": "The Bishop's Rings",
+      "words": 2940
+    },
+    {
+      "ch": 12,
+      "title": "The Sleeping Crocodile Log",
+      "words": 2939
+    },
+    {
+      "ch": 13,
+      "title": "The Woven Pouch",
+      "words": 2938
+    },
+    {
+      "ch": 14,
+      "title": "The Soldiers' Cough",
+      "words": 2940
+    },
+    {
+      "ch": 15,
+      "title": "The Apus' Jealousy",
+      "words": 2939
+    },
+    {
+      "ch": 16,
+      "title": "The Broken Cross",
+      "words": 2938
+    },
+    {
+      "ch": 17,
+      "title": "The Varayoc's Silence",
+      "words": 2940
+    },
+    {
+      "ch": 18,
+      "title": "The Letters That Twist to Vines",
+      "words": 2939
+    },
+    {
+      "ch": 19,
+      "title": "The Mud's Hungry Kiss",
+      "words": 2938
+    },
+    {
+      "ch": 20,
+      "title": "The Mission House Tomb",
+      "words": 2940
+    },
+    {
+      "ch": 21,
+      "title": "Urcu Pacha's Belly",
+      "words": 2939
+    },
+    {
+      "ch": 22,
+      "title": "The Inevitable Tide",
+      "words": 2938
+    },
+    {
+      "ch": 23,
+      "title": "The Soul That Cannot Be Divided",
+      "words": 2940
+    },
+    {
+      "ch": 24,
+      "title": "The Nest in the Ear",
+      "words": 2939
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a journal entry from Illari's perspective, describing the new priest's arrival and what she sees in his eyes that he cannot.",
+      "Compose a 'whispered name' poem for the river, blending Quechua imagery with Catholic liturgy.",
+      "Draft a letter from the Bishop in the city, responding to a frantic, coded missive from Father Anselmo.",
+      "Write a monologue for the jungle itself, addressing Father Rivas as it slowly 'digests' his mission and his mind."
+    ],
+    "technical": [
+      "Create an interactive map of Santa Inés where clicking on locations (the riverbank, the mission, the ruins) triggers overlapping audio layers of prayers, indigenous songs, and jungle sounds.",
+      "Build a text generator that mimics the novel's style: input a Catholic doctrinal phrase and receive it 'translated' into a syncretic, stream-of-consciousness jungle reflection."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Gabriel García Márquez",
+      "Virginia Woolf",
+      "Frantz Fanon",
+      "William Faulkner"
+    ]
+  },
+  "cover_prompt": "A gaunt, cassock-clad priest kneels not in prayer but in desperate excavation, his hands clawing at the muddy bank of a vast, dark river, his face a mask of crumbling devotion as skeletal roots and submerged artifacts—a colonial-era crucifix, a pre-Columbian ceramic shard—emerge from the silt to grip his wrists, [Detailed Scene & Context: within a dense, breathing Amazonian jungle where the trees themselves seem to watch, their bark etched with faint, spectral faces and their vines strung with decaying ritual offerings, the water reflecting not the sky but fragmented, haunting memories of a erased culture], [Artistic Style & Medium: in the atmospheric, magically realistic style of Leonora Carrington and Remedios Varo, rendered in hyper-detailed oil painting with textures of wet clay, weathered wood, and luminous moss], [Composition & Camera: book cover framing, a centered and intimate composition with a dramatic low-angle that makes the jungle tower ominously over the priest, the river flowing directly toward the viewer], [Lighting & Color Palette: cinematic chiaroscuro lighting with a single shaft of oppressive jungle-canopy light, a color palette of saturated emerald greens, deep umbra shadows, murky sepia river tones, and eerie bioluminescent blues], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
